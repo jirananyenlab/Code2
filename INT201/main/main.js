@@ -153,7 +153,7 @@ console.log("2 : " +xxx1)
 
 let n1= '2'
 console.log(typeof n)
-console.log(typeof Number(n) )
+
 
 
 
